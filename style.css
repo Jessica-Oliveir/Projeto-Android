@@ -202,7 +202,7 @@ aside > ul{
     columns: 2;
     /* Para colocar um emoji de ckeck diferente, "list-style-type: '(barra invertida + codigo do emoji copiado' 
     E \00A0 significa dar espaço entre o emoji de check e o conteúdo, colocamos 2 vezes para dar espaço duas vezes. E o código mencionado abaixo, não é compativel com todo tipo de navegador*/
-    list-style-type: '\2714\00A0\00A0';
+    list-style-type: '\2714\00A0';
 }
 
 footer{
